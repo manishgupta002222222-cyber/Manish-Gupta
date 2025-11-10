@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Education Chatbot",
+  "description": "An educational chatbot powered by the Gemini API. It features multiple AI personas like Study Buddy, Homework Helper, and Code Assistant to provide tailored assistance for various learning needs.",
+  "requestFramePermissions": []
+}
